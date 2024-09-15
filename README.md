@@ -6,6 +6,10 @@ After completing each step, run the associated script to verify it has been impl
 
 Use the [Cairo book](https://book.cairo-lang.org/ch00-00-introduction.html) and the [Starknet docs](https://docs.starknet.io/documentation/) as a reference.
 
+## Deployment
+
+Workshop completed and deployed to Starknet's Sepolia testnet at this address: [0x389d61f537f5dad000ea9a3639c4c9fd690b6f8ed7a94f7fcab8768352f0c3b](https://sepolia.voyager.online/contract/0x0389d61f537f5dad000ea9a3639c4c9fd690b6f8ed7a94f7fcab8768352f0c3b)
+
 ## Setup
 
 Clone this repository and choose whether you prefer using Docker to manage global dependencies or not in the following steps:
